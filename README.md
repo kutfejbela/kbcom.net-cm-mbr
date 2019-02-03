@@ -9,23 +9,23 @@ Central Management - Maintenance, Backup, Restore
 - Reports
 - Clone and restore
 
-##Modules
+## Modules
 Backup and maintenance modules for services. This page show what can we backup/maintenance and how.
 
-##Certificate and credetials
+## Certificate and credetials
 Here you can add, edit and remove certificate and credetials to authenticate to host services.
 
-##Host services
+## Host services
 The list of host services that you want to maintenance and backup/restore.
 
-##Storage
+## Storage
 Where the backup and backup copy will be create it.
 
-##Maintenace and backup protocols
+## Maintenace and backup protocols
 Which module you use to maintenance and backup and how frequently. You can set health check, deduplication and number of copies.
 
-##Reports
+## Reports
 Watch backup and maintenance state and schedule e-mail reports to administrators and leaders.
 
-##Clone and restore
+## Clone and restore
 You can make a clone (to test restore) or you can restore at any level (folder, files, databases, tables, records, etc.).
