@@ -26,7 +26,7 @@ Where the backup and backup copy will be create it.
 Which module you use to maintenance and backup and how frequently. You can set health check, deduplication and number of copies.
 
 ## Reports
-Watch backup and maintenance state and schedule e-mail reports to administrators and leaders.
+Watch backup and maintenance state. Set alert e-mails and schedule e-mail reports to administrators and leaders.
 
 ## Clone and restore
 You can make a clone (to test a full restore) or you can make a restore at any level (folder, files, databases, tables, records, etc.).
