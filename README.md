@@ -8,6 +8,7 @@ Central Management - Maintenance, Backup, Restore
 - Maintenace and backup protocols
 - Reports
 - Clone and restore
+- System management
 
 ## Modules
 Backup and maintenance modules for services. This page show what can you backup/maintenance and how.
@@ -29,3 +30,6 @@ Watch backup and maintenance state and schedule e-mail reports to administrators
 
 ## Clone and restore
 You can make a clone (to test a full restore) or you can make a restore at any level (folder, files, databases, tables, records, etc.).
+
+## System management
+You can set a replication, archive and backup of configuration and backup/maintanace/restore results.
